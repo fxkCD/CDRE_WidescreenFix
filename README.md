@@ -1,5 +1,6 @@
 # Crashday Redline Edition - Widescreen Fix
 An ASI plugin to improve widescreen support for Crashday
+
 Original plugin was made by St1ngLeR for Crashday 1.2
 
 ## Install & usage
